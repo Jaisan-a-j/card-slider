@@ -1,13 +1,15 @@
-# My Second HTML + CSS Project
+# Responsive Card slider
 
 ## Description
 
-A HTML and CSS project for displaying a responsive Card Slider.
+A HTML, CSS and JavaScript project for displaying a responsive Card Slider.
 
 ## Tech Stack
 
 - HTML5
 - CSS3
+- Javascript
+- Swiper
 
 ## How to Run
 
